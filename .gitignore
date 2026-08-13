@@ -1,0 +1,14 @@
+/target/
+
+# Environment variables and secrets
+.env
+*.env
+
+# Local application configuration
+application-local.properties
+application-*.properties
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
