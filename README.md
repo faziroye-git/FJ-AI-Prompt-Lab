@@ -56,6 +56,10 @@ This project is being developed step-by-step to gain practical experience with:
 
 The project will evolve incrementally as new features and technologies are introduced. The GitHub repository documents the development process and progress of the application.
 
+## Recent Update
+
+The project now includes a dedicated development branch workflow. Changes can be developed and reviewed on `subbranch` before being merged into `main`.
+
 ## Author
 
 **Faizat Jamiu**
